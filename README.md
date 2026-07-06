@@ -1,54 +1,27 @@
-# [M Madhukar]
+# 💫 About Me:
+- 🔭 **I’m currently working on** high-scale code automation as a **Google Summer of Code 2026 Contributor** and building AI-driven solutions like **Cognitone**.<br>- 👯 **I’m looking to collaborate on** open-source AI projects, multi-agent systems, and impactful computational healthcare models.<br>- 🤝 **I’m looking for help with** scaling LLM-based behavioral analysis pipelines and advanced enterprise cloud architectures (AWS/GCP).<br>- 🌱 **I’m currently learning** advanced Retrieval-Augmented Generation (RAG), Graph-based reasoning, and deep learning vision architectures like LLaVA and Grounding DINO.<br>- 💬 **Ask me about** Generative AI, building intelligent software pipelines, hardware-software synchronization, or student community building!<br>- ⚡ **Fun fact:** When I'm not training AI models, I'm creating cinematic AI-generated videos, rendering 3D product animations, or designing massive coding treasure hunts!
 
-**Computer Science & AI/ML · M.S. Ramaiah Institute of Technology · Bengaluru, India**
-[LinkedIn](#) · [Portfolio](#) · [Email](mailto:#)
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhum161616) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Madhum16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhum160804@gmail.com) 
 
-## About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Madhum-16&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Madhum-16&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Madhum-16&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-3rd-year engineering student at MSRIT (6th semester, B.E. CSE — AI/ML) building at the intersection of AI, multi-agent systems, and graph-based reasoning. I've published research in IEEE Xplore on cardiac digital twins, developed multimodal AI applications like SafeGuard AI, and lead as a Student Coordinator for RIT TechFest 2026. My academic background also includes a Diploma in Automation from the Govt. Tool Room & Training Center, Bengaluru. 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Madhum-16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Technical Skills
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Programming** | Python, SQL |
-| **Web Development** | React, FastAPI |
-| **AI / ML** | Retrieval-Augmented Generation (RAG), Graph-based reasoning, Multi-agent systems, Gemini AI, Amazon Bedrock |
-| **Design & Media** | 3D product animations (Tripo AI), DaVinci Resolve, Premiere Pro, Canva, Photoroom, Gamma App |
-
-## Experience & Leadership
-
-**Student Coordinator · RIT TechFest (Udbhav'26)** (Apr 2026)
-* Managed the *Project Nexus* coding treasure hunt and the official event website.
-* Coordinated participant sheets, custom riddles, and collaborative repository management.
-
-## Projects
-
-* **SafeGuard AI (2026)** – A Multimodal Emergency Response System built for the Google Solution Challenge. Utilizes Gemini AI to analyze real-time scene, voice, and health data.
-* **Multi-Modal Graph-Based RAG System (2026)** – Developed advanced retrieval systems integrated with agentic AI workflows.
-* **Neurova (2026)** – A tech-focused digital platform architected to generate promotional and educational AI content using automated visual asset workflows.
-* **Project Nexus (2026)** – Custom coding treasure hunt platform ecosystem developed for RIT TechFest.
-
-## Research Publications
-
-* **"Computational Analysis of Mapping Resolution in Cardiac Digital Twins: High-Density Grid vs. Conventional Mapping"** — *IEEE Xplore, 2026*
-
-## Achievements & Hackathons
-
-* 🏆 **TechMCODE Hackathon** — Advanced to Round 2 Assessment and AI Builders Round (Jun 2026)
-* 🌐 **Meta PyTorch OpenEnv Hackathon** — Round 1 Bootcamp Participant (Jun 2026)
-* 🎓 **Google India Hackathon** — On-site participant; Workshop Series Verified Certificate (May 2026)
-* ☁️ **AWS Summit Bengaluru** — Attendee focusing on scalable architecture (Apr 2026)
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=white" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=white" />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Madhum-16&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Madhum-16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Open to technical internships, research collaborations, and interesting conversations. Feel free to reach out.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
